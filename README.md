@@ -3,20 +3,17 @@
 A collection of product and go-to-market playbooks for market readiness.
 
 ## What this is
-This repository shows how I structure product playbooks that align product, marketing, sales, and customer-facing teams around a shared view of the market.
+This repository shows how I structure product launches for new products and GtM launches for existing products that align product, marketing, sales, and customer-facing teams around a shared view of the market.
 
-## What a playbook covers
-Typical sections include:
-- product narrative
-- ideal customer profile
-- key use cases
-- competitive landscape
-- market context
-- messaging inputs
-- launch and enablement considerations
+## What this covers
+Typical frameworks including:
+- product playbook
+- GtM checklist
+- Compeition deep dives
+- Creation of market activation assets like whitepapers,blogs
 
 ## Why it matters
-A strong playbook creates a single source of truth for cross-functional teams and improves internal readiness before launch or expansion.
+Strong frameworks creates a single source of truth for cross-functional teams and help scale GtM efforts through scalables and repeatable processes.
 
 ## What’s in this repository
 - reusable templates
@@ -24,5 +21,4 @@ A strong playbook creates a single source of truth for cross-functional teams an
 - frameworks for ICP, positioning, and competition
 - notes on how I maintain these documents as living assets
 
-## Important note
-This repository contains original templates and sanitized examples only. It does not include confidential company materials.
+
