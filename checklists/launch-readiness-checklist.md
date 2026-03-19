@@ -29,7 +29,6 @@ A simple checklist used before launching a new product or feature. There are 5 k
 ## Product Positioning
 
 - Customer pains based on jobs Vs our product gains -> clearly mapped
-- 
 - Value proposition defined and agreed
 - Positioning defined and agreed
 - Differentiation clear
